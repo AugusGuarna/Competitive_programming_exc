@@ -1,6 +1,10 @@
-# Competitive programming
+# 🏆 Competitive Programming Excellence
 
-Here are a bunch of exercises I did for a course on Algorithm design techniques. I list the link for the judge for each exercise:
+![C++](https://img.shields.io/badge/Language-C++17-blue?logo=c%2B%2B)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+This repository contains my solutions to various competitive programming problems. My goal is to implement clean, optimized, and well-documented code for complex algorithmic challenges.
+
 1. [Backtracking](https://vjudge.net/problem/UVA-11804)
 2. [Dynamic programming top down](https://vjudge.net/problem/UVA-11790)
 3. [Dynamic programming bottom up](https://vjudge.net/problem/UVA-1231)
